@@ -1,4 +1,4 @@
-body {
+body {background-color: #496710;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -11,3 +11,56 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.container{
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 500px;
+  background-color: #496710;
+}
+.time{
+  font-weight: 600;
+  font-size: 24px;
+  color: white;
+  font-family: 'Franklin Gothic Medium';
+  text-shadow: -1px 0 #555, 0 1px #555, 1px 0 #555, 0 -1px #555;
+}
+.time, .btn_box {
+  height: 76px;
+  display: flex;
+  width: 100px;
+  justify-content: center;
+  margin: 20px auto;
+}
+
+.btn{
+  display: block;
+  border: none;
+  border-radius: 3px;
+  outline: none;
+  width: 100px;
+  height: 40px;
+  background-color: #662a04;
+  transition: box-shadow 0.5s;
+  font-size: 16px;
+  font-family: arial;
+  color: #fff;
+  cursor: pointer;
+
+}
+.conteiner_timer{
+  width: 100%;
+  position: relative;
+}
+.box{
+  margin: 20px auto;
+  position: absolute;
+  top:44px;
+  left: 18px;
+  overflow: hidden;
+  height: 35px;
+  border-radius: 5px;
+  
+}
+.progres{}
