@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Cursor_ADV_React_Timer/static/css/main.96c26e75.css",
-    "main.js": "/Cursor_ADV_React_Timer/static/js/main.3a161a75.js",
-    "static/js/787.38982ff6.chunk.js": "/Cursor_ADV_React_Timer/static/js/787.38982ff6.chunk.js",
-    "index.html": "/Cursor_ADV_React_Timer/index.html",
-    "main.96c26e75.css.map": "/Cursor_ADV_React_Timer/static/css/main.96c26e75.css.map",
-    "main.3a161a75.js.map": "/Cursor_ADV_React_Timer/static/js/main.3a161a75.js.map",
-    "787.38982ff6.chunk.js.map": "/Cursor_ADV_React_Timer/static/js/787.38982ff6.chunk.js.map"
+    "main.css": "/React_Timer/static/css/main.96c26e75.css",
+    "main.js": "/React_Timer/static/js/main.33c350df.js",
+    "static/js/787.38982ff6.chunk.js": "/React_Timer/static/js/787.38982ff6.chunk.js",
+    "index.html": "/React_Timer/index.html",
+    "main.96c26e75.css.map": "/React_Timer/static/css/main.96c26e75.css.map",
+    "main.33c350df.js.map": "/React_Timer/static/js/main.33c350df.js.map",
+    "787.38982ff6.chunk.js.map": "/React_Timer/static/js/787.38982ff6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.96c26e75.css",
-    "static/js/main.3a161a75.js"
+    "static/js/main.33c350df.js"
   ]
 }
